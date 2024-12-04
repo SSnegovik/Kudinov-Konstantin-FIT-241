@@ -1,7 +1,7 @@
 using System;
 class HelloWorld {
   static void Main() {
-      //Лабараторная работа 24.10.2024
+      //Лабараторная работа 6 24.10.2024
       Console.WriteLine("Введите количество строк и стобцов поэлементно:");
       int rows = int.Parse(Console.ReadLine());
       int cols = int.Parse(Console.ReadLine());

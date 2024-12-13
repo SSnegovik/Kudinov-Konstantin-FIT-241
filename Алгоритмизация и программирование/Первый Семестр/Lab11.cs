@@ -176,7 +176,7 @@ namespace Studentsr{
 
             Console.WriteLine("Найденные ученики:");
             foreach (var student in result){
-                Console.WriteLine(student.FullName, student.BirthYear);
+                Console.WriteLine(student.FullName);
             }
         }
     }

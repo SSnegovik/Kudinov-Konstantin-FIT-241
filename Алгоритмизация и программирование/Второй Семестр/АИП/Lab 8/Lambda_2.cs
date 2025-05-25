@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
+//Лабораторная работа 8_2 28.03.2025
+
 class Program
 {
     static void Main()

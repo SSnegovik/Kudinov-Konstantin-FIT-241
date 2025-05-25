@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Threading;
-//Лабораторная работа по АИП №7.1
+
+//Лабораторная работа 7_1 21.03.2025 
 
 public class Runner
 {

@@ -1,4 +1,5 @@
 using System;
+
 //Лаббораторная работа 6_1 21.03.2025
 
 public delegate int OperationHandler();

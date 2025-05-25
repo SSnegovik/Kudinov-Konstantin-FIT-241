@@ -1,5 +1,6 @@
 using System;
-//Лабараторная работа по АИП №2
+
+//Лабараторная работа 2 14.02.2025
 
 public abstract class GeometricFigure
 {

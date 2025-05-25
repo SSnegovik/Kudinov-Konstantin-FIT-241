@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 
+//Лабораторная работа 1 07.02.2025
+
 class Contact
 {
     public string FullName { get; set; }

@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 
+//Лабораторная работа 4 28.02.2025
+
 public class PostfixCalculator
 {
     public static double Evaluate(string input)

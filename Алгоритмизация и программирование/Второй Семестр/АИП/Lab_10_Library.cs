@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 
+//Лабораторная работа 10 11.04.2025
+
 public struct BorrowRecord
 {
     public DateTime BorrowDate;

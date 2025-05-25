@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-//Лабораторная работа 6_2 21.03.2025
+//Лабораторная работа 6_2 14.03.2025
 
 public delegate void CleanVehicleDelegate(Vehicle vehicle);
 

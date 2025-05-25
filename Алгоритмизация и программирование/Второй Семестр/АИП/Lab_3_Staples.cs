@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
-//Лабараторная работа по АИП №3
+
+//Лабараторная работа 3 21.02.2025
 
 public class ExpressionValidator
 {

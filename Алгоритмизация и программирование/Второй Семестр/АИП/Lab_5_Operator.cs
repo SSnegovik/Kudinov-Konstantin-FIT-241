@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
-//Лабораторная работа по АИП №5
+
+//Лабораторная работа 5 07.03.2025
 
 class Contact
 {

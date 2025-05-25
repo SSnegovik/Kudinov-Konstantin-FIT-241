@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
-//Лабораторная работа по АИП №6.2
+
+//Лабораторная работа 6_2 21.03.2025
 
 public delegate void CleanVehicleDelegate(Vehicle vehicle);
 

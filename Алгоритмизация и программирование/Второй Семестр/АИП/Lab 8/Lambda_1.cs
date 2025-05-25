@@ -1,5 +1,7 @@
 using System;
 
+//Лабораторная работа 8_1 28.03.2025
+
 class Program
 {
     static void Main()

@@ -1,5 +1,5 @@
 using System;
-//Лаббораторная работа по АИП №6.1 
+//Лаббораторная работа 6_1 21.03.2025
 
 public delegate int OperationHandler();
 

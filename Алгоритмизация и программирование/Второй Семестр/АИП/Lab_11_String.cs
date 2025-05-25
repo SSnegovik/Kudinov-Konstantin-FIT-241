@@ -2,6 +2,8 @@ using System;
 using System.IO;
 using System.Text.RegularExpressions;
 
+//Лабораторная работа 11 28.04.2025
+
 class Program
 {
     static void Main()

@@ -1,5 +1,7 @@
 using System;
 
+////Лабораторная работа 9 04.04.2025
+
 public class MyArray<T>
 {
     private T[] items;
